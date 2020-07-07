@@ -1,4 +1,4 @@
-# Movie-Database
+# react-redux
 
 Search for any movie you want by entering your search keyword in the search bar.
 
